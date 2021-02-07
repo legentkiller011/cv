@@ -17,3 +17,9 @@ h1 {
 h3 {
   color: #008891;
 }
+
+a {
+  color: #008891;
+  font-weight: 700;
+  text-decoration: none;
+}
